@@ -69,7 +69,7 @@ _Clone and deploy your own copy of this project in one click._
     npm install
    ```
 
-3. **Start the development server**
+3. **Start the development server**np
    ```bash
    npm run dev
    ```
